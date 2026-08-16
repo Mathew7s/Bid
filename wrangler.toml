@@ -1,4 +1,4 @@
-name = "crete-api"
+name = "MatterhornBidIntel"
 main = "worker.js"
 compatibility_date = "2025-01-01"
 
