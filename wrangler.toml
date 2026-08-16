@@ -1,0 +1,8 @@
+name = "crete-api"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "crete-db"
+database_id = "PASTE_YOUR_DATABASE_ID_HERE"
